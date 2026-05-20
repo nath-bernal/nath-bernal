@@ -1,6 +1,6 @@
 <div align="center">
 
-# Natalia Bernal González
+# Natalia Bernal Gutiérrez
  
 ### Systems Engineering Student · Data Science Enthusiast · Software Developer
  
