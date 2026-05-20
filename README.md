@@ -1,5 +1,7 @@
 <div align="center">
-# Natalia Bernal Gutiérrez
+
+# Natalia Bernal González
+ 
 ### Systems Engineering Student · Data Science Enthusiast · Software Developer
  
 *Medellín, Colombia — Universidad de Antioquia*
