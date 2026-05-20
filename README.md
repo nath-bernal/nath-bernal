@@ -57,6 +57,7 @@ Creo que el perfil más valioso en tecnología es el que conecta el rigor del an
 | **Rigor estadístico** | Comprendo los fundamentos matemáticos detrás de los algoritmos de ML, lo que permite análisis con metodologías robustas y no solo ejecución de scripts. |
 | **Desarrollo estructurado** | Experiencia en Java con arquitectura hexagonal y CI/CD, aplicando principios de diseño limpio y código mantenible. |
 | **Análisis exploratorio (EDA)** | Me enfoco en la limpieza, visualización e interpretación de datos para comunicar hallazgos complejos de forma clara. |
+| **Modelado de datos** | Diseño y estructuro modelos de datos que soporten análisis robustos, garantizando integridad, trazabilidad y eficiencia en el manejo de la información. |
 | **Visión de impacto** | Creo en el uso de datos y tecnología para resolver problemas reales y construir soluciones con propósito. |
  
 ---
@@ -77,6 +78,7 @@ Creo que el perfil más valioso en tecnología es el que conecta el rigor del an
 🏗️ Construyendo con...   Python · Scikit-learn · Power BI
 📐 Aplicando...          Arquitectura hexagonal · CI/CD en proyectos Java
 📊 Explorando...         Modelado predictivo · Visualización de datos
+🗄️ Modelando...          Diseño y estructuración de modelos de datos
 ```
  
 ---
