@@ -6,7 +6,7 @@
  
 *Medellín, Colombia — Universidad de Antioquia*
  
-[![LinkedIn](www.linkedin.com/in/natalia-bernal-gutiérrez-5ba52a1b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nath-bernal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalia.bernalg@udea.edu.co)
  
 </div>
