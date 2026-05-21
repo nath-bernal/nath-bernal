@@ -18,7 +18,7 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad de Antioquia, co
  
 Mi trayectoria tiene dos ejes principales:
  
-- **Desarrollo de software:** He trabajado en proyectos Java aplicando buenas prácticas, arquitectura hexagonal y flujos de CI/CD, con énfasis en código mantenible y bien estructurado.
+- **Desarrollo de software:** He trabajado en proyectos Java aplicando buenas prácticas, patrones arquitectonicos y flujos de CI/CD, con énfasis en código mantenible y bien estructurado.
 - **Ciencia de datos:** Me encuentro enfocada activamente en análisis exploratorio de datos (EDA), modelado estadístico y visualización, buscando transformar datos en decisiones con valor real.
 Creo que el perfil más valioso en tecnología es el que conecta el rigor del análisis con la solidez del desarrollo. Ese es el perfil que estoy construyendo.
  
@@ -42,7 +42,6 @@ Creo que el perfil más valioso en tecnología es el que conecta el rigor del an
 ### Desarrollo & Arquitectura
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Arquitectura Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-6A0DAD?style=for-the-badge&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
  
 ### Herramientas
@@ -57,19 +56,18 @@ Creo que el perfil más valioso en tecnología es el que conecta el rigor del an
 | Área | Descripción |
 | :--- | :--- |
 | **Rigor estadístico** | Comprendo los fundamentos matemáticos detrás de los algoritmos de ML, lo que permite análisis con metodologías robustas y no solo ejecución de scripts. |
-| **Desarrollo estructurado** | Experiencia en Java con arquitectura hexagonal y CI/CD, aplicando principios de diseño limpio y código mantenible. |
+| **Desarrollo estructurado** | Experiencia en Java con patrones arquitectonicos y CI/CD, aplicando principios de diseño limpio y código mantenible. |
 | **Análisis exploratorio (EDA)** | Me enfoco en la limpieza, visualización e interpretación de datos para comunicar hallazgos complejos de forma clara. |
 | **Modelado de datos** | Diseño y estructuro modelos de datos que soporten análisis robustos, garantizando integridad, trazabilidad y eficiencia en el manejo de la información. |
 | **Visión de impacto** | Creo en el uso de datos y tecnología para resolver problemas reales y construir soluciones con propósito. |
  
 ---
  
-## 🚀 Proyectos destacados
+## 🚀 Proyecto destacado
  
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| [**BeatAnalytics**](https://github.com/JulianCarvajal/BeatAnalytics) | Exploración y análisis de datos musicales con visualizaciones interactivas | Python · Jupyter · Pandas |
-| [**Proyecto-Modelos1**](https://github.com/spalacioc05/Proyecto-Modelos1) | Modelado estadístico y simulaciones académicas | R · Estadística |
+| [**Proyecto-Modelos1**](https://github.com/spalacioc05/Proyecto-Modelos1) | Modelado estadístico y simulaciones académicas | R · Estadística · Python|
  
 ---
  
