@@ -63,11 +63,12 @@ Creo que el perfil más valioso en tecnología es el que conecta el rigor del an
  
 ---
  
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
  
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | [**Proyecto-Modelos1**](https://github.com/spalacioc05/Proyecto-Modelos1) | Modelado estadístico y simulaciones académicas | R · Estadística · Python|
+| [**Hackaton-Agorapp**](https://github.com/Felixphz/OmegaHack2026) | Orquestación de Agentes | Azure · Java · Python |
  
 ---
  
